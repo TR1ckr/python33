@@ -13,7 +13,7 @@ def test():
         print('hello world')
     elif len(args) ==2:
         print('Hello, %s!' % args[1])
-    elif:
+    else:
         print('too many arguments')
 
 if __name__ =='__main__':
